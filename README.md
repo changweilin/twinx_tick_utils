@@ -1,7 +1,7 @@
 
 # twinx_tick_utils
 
-對齊 Matplotlib 中 `twinx()` 雙 Y 軸的格線，確保兩側格線數量一致、位置對齊、整齊 round，並視需求強制包含 0。
+對齊 Matplotlib 中 `twinx()` 雙 Y 軸的格線，確保兩側格線數量一致、位置對齊、整齊 round，並視需求強制將格線對齊兩側y軸範圍內的0。
 
 ## 🚀 安裝依賴
 
